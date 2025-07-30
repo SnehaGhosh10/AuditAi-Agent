@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": "R001",
+    "description": "Transaction amount must not exceed ₹50,000 for Office Supplies",
+    "field": "amount",
+    "condition": "greater_than",
+    "value": 50000,
+    "category": "Office Supplies"
+  },
+  {
+    "rule_id": "R002",
+    "description": "Transactions in Snacks category must not exceed ₹500",
+    "field": "amount",
+    "condition": "greater_than",
+    "value": 500,
+    "category": "Snacks"
+  },
+  {
+    "rule_id": "R003",
+    "description": "Consulting transactions above ₹100,000 must be flagged",
+    "field": "amount",
+    "condition": "greater_than",
+    "value": 100000,
+    "category": "Consulting"
+  }
+]
