@@ -1,8 +1,0 @@
-streamlit
-pandas
-scikit-learn
-langchain
-openai
-groqcloud
-pdfplumber
-python-dotenv
