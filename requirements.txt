@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+langchain
+langchain-groq
+langchain-community
+pdfplumber
+python-dotenv
