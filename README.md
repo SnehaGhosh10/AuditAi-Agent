@@ -54,6 +54,7 @@ These inefficiencies can lead to:
 * 🧮 **Accounting Firms** – Speed up audit turnaround times
 * 🏛️ **Government Agencies** – Monitor and audit fund allocations
 * 🏢 **Enterprises** – Enforce internal financial policy compliance
+* 📞 **Customer Support** – Resolve billing disputes & verify transactions
 
 ---
 
